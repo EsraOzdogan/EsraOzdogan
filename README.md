@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 </h1>
 
 <a href="https://github.com/EsraOzdogan"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EsraOzdogan&show_icons=true&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&icon_color=f1c40f&hide_border=true" /></a>
-<a href="https://github.com/EsraOzdogan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmet-cetinkaya&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
+<a href="https://github.com/EsraOzdogan"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraOzdogan&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" /></a>
 
