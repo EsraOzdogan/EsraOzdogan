@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 
 
 
+![Visitor Count](https://profile-counter.glitch.me/{EsraOzdogan}/count.svg)
+
+
+
 
 <p align='center'>
   <a href="https://gist.github.com/EsraOzdogan"><img src="https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
