@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{EsraOzdogan}/count.svg)
-
-
 
 
 <p align='center'>
